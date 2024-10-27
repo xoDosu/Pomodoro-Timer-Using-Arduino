@@ -12,4 +12,5 @@ Components Used
 - I2C Serial Interface Port
 
 # Circuit Layout
-![alt text]([Incredible Migelo-Fulffy(1).png](https://github.com/xoDosu/Pomodoro-Timer-Using-Arduino/blob/main/Incredible%20Migelo-Fulffy(1).png))
+
+![Alt text](Incredible Migelo-Fluffy(1).png)
