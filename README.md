@@ -13,4 +13,4 @@ Components Used
 
 # Circuit Layout
 
-![Alt text](Incredible Migelo-Fluffy(1).png)
+
