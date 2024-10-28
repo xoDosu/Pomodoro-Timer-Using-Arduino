@@ -1,8 +1,6 @@
 # Pomodoro-Timer-Using-Arduino
 
-Components Used
-
-- Pentiometer
+Components Used:
 - Buttons
 - LEDS
 - Arduino Wifi R3
