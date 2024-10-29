@@ -7,7 +7,7 @@ Components Used:
 - Buzzer
 - LCD Display
 - Jumper Wires
-- I2C Serial Interface Port
+- I2C Serial Interface Adapter Module
 
 # Circuit Layout
 
