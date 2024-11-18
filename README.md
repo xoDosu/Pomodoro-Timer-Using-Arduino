@@ -5,7 +5,7 @@ Components Used:
 - LEDS
 - Arduino Wifi R3
 - Buzzer
-- LCD Display
+- LCD Display 16X2
 - Resistors
 - Jumper Wires
 - I2C Serial Interface Adapter Module
